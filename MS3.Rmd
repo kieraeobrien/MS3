@@ -1,0 +1,23 @@
+---
+title: "MS3"
+author: "Kiera O'Brien"
+date: "2/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+"About" section
+
+Project Summary: This project is a data-driven analysis of Republican opinions on climate change. 
+
+Data Set 1: CCES Data -- what is it, what years? List source site
+
+Data Set 2: List source site
+
+About me: My name is Kiera O'Brien. I'm a senior in Harvard College studying Government on the Technology Science track. I was born and raised in Ketchikan, Alaska, 
+
+I can be contacted at kiera_obrien@college.harvard.edu.
+My github repo for this project can be found at: https://github.com/kieraeobrien/MS3
