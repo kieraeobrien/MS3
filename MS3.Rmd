@@ -11,13 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 "About" section
 
-Project Summary: This project is a data-driven analysis of Republican opinions on climate change. 
+Project Summary: This project is a data-driven analysis of Republican opinions on climate change. My thesis is on the right-wing climate movement from the 1980s to the present day. I'm particularly interested in examining the generational divide that exists with opinions on climate change policy.
 
-Data Set 1: CCES Data -- what is it, what years? List source site
+Data Sets: CCES 2010 Data and CCES 2018 Data. The Cooperative Congressional Election Study is run during election years and is a 50,000+ person national stratified sample survey administered by YouGov. I've selected these particular years because 2010 was the first year that the questionaire included a question regarding CO2 emission regulations directly, which is a metric I am interested in examining. 2018 is the most recent data collected, allowing for a change-over-time comparison.  
 
-Data Set 2: List source site
-
-About me: My name is Kiera O'Brien. I'm a senior in Harvard College studying Government on the Technology Science track. I was born and raised in Ketchikan, Alaska, 
+About me: My name is Kiera O'Brien. I'm a senior in Harvard College studying Government on the Technology Science track. I was born and raised in Ketchikan, Alaska, and am the President Emerita of the Harvard Republican Club. 
 
 I can be contacted at kiera_obrien@college.harvard.edu.
 My github repo for this project can be found at: https://github.com/kieraeobrien/MS3
